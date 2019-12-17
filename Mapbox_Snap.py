@@ -8,7 +8,7 @@ import urllib.error
 import xml.etree.ElementTree as ET
 
 GPX_FILE = 'd:/old.gpx'
-API_KEY = 'pk.eyJ1IjoiYmFsZGFjY2luaSIsImEiOiJjaWg2aHptZDYwYzd5dWpseGF1bzIybHI5In0.ewK90bfsJ8f4xjqZt_mvBQ'
+API_KEY = 'pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4M29iazA2Z2gycXA4N2pmbDZmangifQ.-g_vE53SD2WrJ6tFX7QHmA'
 
 def Split(trkseg, reason):
     next_trkpt = tmp_trkpts.pop()
